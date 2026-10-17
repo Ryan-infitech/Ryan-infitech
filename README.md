@@ -4,7 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryan-infitech&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryan-infitech&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  ![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=Ryan-infitech&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)
+
+  ![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=Ryan-infitech&bg_color=0d1117&color=d8dee9&line=1670ca&point=ffffff&area_color=#0d111&area=true&hide_border=true)
 </div>
 
 <picture>
